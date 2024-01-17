@@ -12,14 +12,14 @@ Welcome to the GitHub repository of **Nextgen Nexus**, where we are Clarifai Inn
 - Rumaisa (Undergrad Student - AI and LLM Enthusiast)
 
 ## Project Overview
-[Provide a brief overview of your project, its objectives, and what you aim to achieve with this initiative.]
+[**To be added later on**]
 
 ## Repository Structure
 - `main`: The primary branch containing the production-ready version of our project.
 - `noman-dev`: Branch for development related to MERN stack components (by Muhammad Noman).
 - `adeen-backend`: Branch for Python back-end development tasks (by Muhammad Adeen).
 - `saif-ai-ml`: Branch dedicated to AI/ML integration and functionalities (by Saifullah).
-- [Additional branches as per project requirements.]
+- [Additional branches as per project requirements. **To be added later on**]
 
 ## Contribution Guidelines
 - **Branches**: All contributors are required to work in their designated branches. Direct pushes to the `main` branch are strictly prohibited.
@@ -28,16 +28,13 @@ Welcome to the GitHub repository of **Nextgen Nexus**, where we are Clarifai Inn
 - **Regular Updates**: Contributors are expected to regularly push their work to their respective branches and keep them updated with the latest `main` branch changes.
 
 ## Getting Started
-[Include instructions on how to set up the project locally, any installations required, and steps to get the project running.]
-
-## Testing
-[Describe the testing protocols or scripts used to ensure code integrity and performance.]
+[**To be added later on**]
 
 ## Communication
-For team discussions, progress updates, and queries, please use our designated communication channel [specify the channel - Slack/Discord/etc.].
+For team discussions, progress updates, and queries, please use our designated communication channel [specify the channel - Whatsapp Group URL https://chat.whatsapp.com/BeVGNoWYgpTLD5kBjBP7LO].
 
 ## Acknowledgments
-Special thanks to all our team members and mentors who are contributing to this innovative journey in the realm of AI and machine learning.
+Special thanks to all our team members and mentors who are contributing to this innovative journey in the realm of AI and Machine Learning.
 
 ---
 
