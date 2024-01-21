@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+body{
+    background: #4CA1AF;  
+    background: -webkit-linear-gradient(to left, #87f0d0, #4CA1AF);  
+    background: linear-gradient(to left, #C4E0E5, #4CA1AF); 
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+    
+}
+.logo{
+    position: absolute;
+    top: -3%;
+    left: 20%;
+    width: 150px;
+    /* height: 100px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid; */
+}
+.logo img{
+    width: 100%;
+}
+nav{
+    margin-top: 30px;
+    width: 70%;
+    /* border: 1px solid green; */
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+  /* width: 60%; */
+ 
+ 
+    
+}
+.logo{
+    width: 150px;
+}
+.logo img{
+    width: 100%;
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    gap: 60px;
+}
+nav ul li{
+    list-style: none;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    cursor: pointer;
+    font-weight: 400;
+}
+#logo{
+    font-weight: 600;
+}
+.front{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 80%;
+    padding: 5%;
+    
+}
+.front .left img{
+    width: 400px;
+    margin-top: 20px;
+}
+.front .right{
+    align-items: end;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    margin-top: 5%;
+    text-align: end;
+    
+}
+.front .right .hed{
+    font-size: 40px;
+    font-weight: 400;
+}
+
+.front .right p{
+    font-size: 20px;
+
+}
+#analyze-btn{
+    width: 150px;
+    height: 30px;
+    background-color: brown;
+    color: white;
+    border: none;
+
+}
