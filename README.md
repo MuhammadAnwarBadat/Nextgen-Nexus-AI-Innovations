@@ -18,7 +18,6 @@ Welcome to the GitHub repository of **Nextgen Nexus**, where we are Clarifai Inn
 - `main`: The primary branch containing the production-ready version of our project.
 - `noman-dev`: Branch for development related to MERN stack components (by Muhammad Noman).
 - `adeen-backend`: Branch for Python back-end development tasks (by Muhammad Adeen).
-- `saif-ai-ml`: Branch dedicated to AI/ML integration and functionalities (by Saifullah).
 - [Additional branches as per project requirements. **To be added later on**]
 
 ## Contribution Guidelines
